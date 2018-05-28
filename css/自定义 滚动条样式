@@ -1,0 +1,12 @@
+    ::-webkit-scrollbar{                /* 滚动条 宽度*/
+			width: 8px;
+			height: 8px;
+		}
+		::-webkit-scrollbar-thumb{   /* 滚动条 拖动条*/
+			background: rgba(0,0,0,.3);
+			border-radius: 6px;
+		}
+		::-webkit-scrollbar-track{   /* 滚动条 背静槽*/
+			background-color: #ddd;
+			border-radius: 6px;
+		}
